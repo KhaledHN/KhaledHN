@@ -27,7 +27,7 @@
 
 
 <center>
- <a href="khaledhazem.vercel.app"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledHN&theme=react&line_height=40&hide=css"/> </a>
+ <a href="khaledhazem.vercel.app"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=KhaledHN&show=reviews"/> </a>
 <left>
     <a href="khaledhazem.vercel.app"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KhaledHN&theme=react&line_height=40&hide=css"/> </a>
 
