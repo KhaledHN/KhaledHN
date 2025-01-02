@@ -28,7 +28,9 @@
 
 <center>
  <a href="khaledhazem.vercel.app"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=KhaledHN&theme=react&show=reviews"/> </a>
+ 
 [![roadmap.sh](https://roadmap.sh/card/wide/6776cf3f70129741a8cfbe3d?variant=dark)](https://roadmap.sh)
+ 
 <left>
 
 
